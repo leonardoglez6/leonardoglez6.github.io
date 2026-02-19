@@ -31,3 +31,7 @@ I am a student at the Genomics Sciences program in the UNAM that has recently de
 #### **Experience**
 
 Research stay in the **Genome Evolution Laboratory** at **[LIIGH-UNAM](https://liigh.unam.mx/newpage/)** in isolating yeast species from agave fermentations in México.
+
+![](/Users/leow/Desktop/UNAM_mac/4_semestre/Bioinfo/leonardoglez6.github.io/logo-liigh-unam.png)
+![](/Users/leow/Desktop/UNAM_mac/4_semestre/Bioinfo/leonardoglez6.github.io/gel_logo.png)
+![](/Users/leow/Desktop/UNAM_mac/4_semestre/Bioinfo/leonardoglez6.github.io/LOGO-LCGEJ.png)
